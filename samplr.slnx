@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Samplr.Tests/Samplr.Tests.fsproj" />
+    <Project Path="src/Samplr/Samplr.fsproj" />
+  </Folder>
+</Solution>
