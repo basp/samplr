@@ -12,6 +12,7 @@
     <None Include="UnitsExample.fsx" />
     <None Include="OscExample.fsx" />
     <None Include="FunctionalExample.fsx" />
+    <None Include="OscExample2.fsx" />
   </ItemGroup>
 
 </Project>
